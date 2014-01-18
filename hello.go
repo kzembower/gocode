@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
     fmt.Printf("hello, world\n")
-    fmt.Printf("version 2 at 1653\n")
+    fmt.Printf("version 3 at 1655\n")
 }
 
